@@ -3,8 +3,10 @@
 > **Project Status:** Completed (November 2025)
 > **Portfolio Project:** A comprehensive Business Intelligence solution built in Power BI to diagnose the root cause of declining Year-on-Year (YoY) sales for the Streetway restaurant outlet and provide actionable, data-driven recommendations.
 
-[Image: Insert Screenshot of Sales Dashboard Here]
-[Image: Insert Screenshot of Customer Dashboard Here]
+<img width="1219" height="676" alt="Sales_Dashboard_Screenshot png" src="https://github.com/user-attachments/assets/960cefa1-5f6a-45a1-ab9f-d9e77b6f8da6" />
+<img width="1222" height="674" alt="Customer_Dashboard_Screenshot png" src="https://github.com/user-attachments/assets/85dc4ff2-0684-46f1-be71-8aa2441a3cc4" />
+
+
 
 ---
 
